@@ -7,4 +7,4 @@ Support Templates takes the place of the document and provides a much easier met
 
 The initial release is still a work in progress, so basically a beta of sorts.  
 
-![ScreenShot](./screenshot1.JPG)
+![ScreenShot](./screenshot2.JPG)
