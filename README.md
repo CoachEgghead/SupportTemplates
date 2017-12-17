@@ -7,4 +7,4 @@ Support Templates takes the place of the document and provides a much easier met
 
 The initial release is still a work in progress, so basically a beta of sorts.  You can check out the help doc at https://sites.google.com/site/martyelder/support-templates
 
-![ScreenShot](./screenshot3.JPG)
+![ScreenShot](./Support_Templates_Main_Screen_v1_1.JPG)
