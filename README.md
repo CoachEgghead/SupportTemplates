@@ -5,6 +5,7 @@ Initially designed for support analysts, this application allows the user to sav
 
 Support Templates takes the place of the document and provides a much easier method of finding and copying the needed template.  After the user's common templates are saved, he/she just clicks on the template name and the text is populated into the text box.  There is a 'Copy to Clipboard' button to have Windows read and save the text to the user's clipboard.  It can then be pasted into the other application(s).
 
-The initial release is still a work in progress, so basically a beta of sorts.  You can check out the help doc at https://sites.google.com/site/martyelder/support-templates
+You can check out the help doc at https://sites.google.com/site/martyelder/support-templates
+Download the SupportTemplates.msi to give it a try!
 
 ![ScreenShot](./Support_Templates_Main_Screen_v1_1.JPG)
