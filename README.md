@@ -11,4 +11,4 @@ You can check out the help doc at https://sites.google.com/site/martyelder/suppo
 
 Download the SupportTemplates.msi to give it a try!
 
-![ScreenShot](./Support_Templates_Main_Screen_v1_1_0_3.JPG)
+![ScreenShot](./Support_Templates_Main_Screen_v162.png)
