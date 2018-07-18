@@ -1,4 +1,6 @@
 # SupportTemplates
+Click the SupportTemplates.msi above to download the latest version!
+
 Windows application to manage text templates.
 
 Initially designed for support analysts, this application allows the user to save, recall, & delete common comment templates.  These are used in support centers when analysts are reusing the same text over and over.  Commonly they are saved in a Word document or a text document.  The user has to then scan through the document to find the needed template, has to highlight, copy, & then paste it into their case/ticket management system.
