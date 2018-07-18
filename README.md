@@ -1,5 +1,5 @@
 # SupportTemplates
-Click the SupportTemplates.msi above to download the latest version!
+<b>Click the SupportTemplates.msi above to download the latest version!</b>
 
 Windows application to manage text templates.
 
